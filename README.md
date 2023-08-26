@@ -3,7 +3,7 @@
 ## Usage
 
 1. Clone this repository to your web server or hosting environment.
-   git clone https://github.com/DarkxxDEV/mc-status-webpage.git
+   git clone https://github.com/DarkxxDEV/mc-status-webpage
 
 2. Place the provided HTML code in an HTML file **(e.g., index.html)** within the project directory.
 
